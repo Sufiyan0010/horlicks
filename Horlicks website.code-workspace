@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Horlicks website",
+			"path": "."
+		},
+		{
+			"name": "clyde-master",
+			"path": "../clyde-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Horlicks website"
+	}
+}
